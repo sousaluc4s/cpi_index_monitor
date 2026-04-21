@@ -1,0 +1,7 @@
+[project]
+name = "cpi_index_monitor"
+version = "1.0.1"
+dependencies = ["requests", "beautifulsoup4"]
+
+[project.scripts]
+cpi_index_monitor = "cpi_index_monitor.cli:main"

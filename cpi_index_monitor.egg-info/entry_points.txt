@@ -1,0 +1,2 @@
+[console_scripts]
+cpi_index_monitor = cpi_index_monitor.cli:main

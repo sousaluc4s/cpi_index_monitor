@@ -1,0 +1,14 @@
+pyproject.toml
+cpi_index_monitor/cli.py
+cpi_index_monitor/runner.py
+cpi_index_monitor.egg-info/PKG-INFO
+cpi_index_monitor.egg-info/SOURCES.txt
+cpi_index_monitor.egg-info/dependency_links.txt
+cpi_index_monitor.egg-info/entry_points.txt
+cpi_index_monitor.egg-info/requires.txt
+cpi_index_monitor.egg-info/top_level.txt
+cpi_index_monitor/core/downloader.py
+cpi_index_monitor/core/http.py
+cpi_index_monitor/core/tracker.py
+cpi_index_monitor/sources/__init__.py
+cpi_index_monitor/sources/transparency_cpi.py

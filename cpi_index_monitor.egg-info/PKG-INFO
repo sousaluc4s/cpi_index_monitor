@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: cpi_index_monitor
+Version: 1.0.1
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
